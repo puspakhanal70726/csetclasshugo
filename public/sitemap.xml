@@ -3,7 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://pkhanal.csetweb.com/posts/hello-world/</loc>
+    <lastmod>2018-04-17T12:51:14-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pkhanal.csetweb.com/posts/my-first-post/</loc>
+    <lastmod>2018-04-17T12:41:29-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pkhanal.csetweb.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pkhanal.csetweb.com/posts/</loc>
+    <lastmod>2018-04-17T12:51:14-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -14,6 +30,7 @@
   
   <url>
     <loc>https://pkhanal.csetweb.com/</loc>
+    <lastmod>2018-04-17T12:51:14-04:00</lastmod>
     <priority>0</priority>
   </url>
   
